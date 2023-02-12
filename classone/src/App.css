@@ -44,7 +44,7 @@
 }
 
 .hi{
-  background:#61dafb;
+  background:#03c8ff;
   /* display: flex; */
   padding: 10px;
   margin: 25px;
@@ -55,14 +55,7 @@
   cursor: pointer;
 }
 .hh{
-  color: brown;
-  background-color: aliceblue;
-}
-
-.nn{
-  display: flex;
-  color: brown;
+  color: darkorange;
   /* background-color: aliceblue; */
-  text-decoration: underline;
-
 }
+

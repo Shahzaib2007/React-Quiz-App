@@ -88,7 +88,7 @@ function App() {
       {
       ison ? <h1>On</h1> : <h1>Off</h1>
       } */}
-      <h1 className='nn'>Quiz App </h1><h2 className='nn'>Total question 1/5:</h2>
+      
 
   {result ? <h1>Your Result is {marks}</h1> : <div> <h1 className='hh'>{questions[indexnum].question}</h1>
       <hr />
